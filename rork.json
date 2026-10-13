@@ -1,0 +1,13 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "freshtrack",
+      "path": "ios-vorrat",
+      "framework": "swift",
+      "settings": {
+        "displayName": "freshtrack"
+      }
+    }
+  ]
+}

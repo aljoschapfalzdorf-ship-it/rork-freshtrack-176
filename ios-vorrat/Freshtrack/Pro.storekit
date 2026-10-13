@@ -1,0 +1,54 @@
+{
+  "identifier" : "2F0A3E9C-7A1B-4E56-9C0D-8B1F2A3C4D5E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "de_DE",
+    "_storefront" : "DEU"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "20A3B4C5",
+      "localizations" : [
+
+      ],
+      "name" : "Vorrat Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "20A3B4C6",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Alle Pro-Features: erweiterte Statistiken, KI-Koch und lokaler Kassenbon-Scan.",
+              "displayName" : "Vorrat Pro",
+              "locale" : "de_DE"
+            }
+          ],
+          "productID" : "app.rork.fwa5bgudhsakfldvz720v.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "20A3B4C5",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

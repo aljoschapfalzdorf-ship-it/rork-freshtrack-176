@@ -1,0 +1,12 @@
+{
+  "images": [
+    {
+      "filename": "eggs_in_carton.jpg",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
